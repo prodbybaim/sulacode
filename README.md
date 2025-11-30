@@ -87,7 +87,7 @@ Terima kasih banget sudah cek repository kecil ini sob
 
 Kalau mau kasih saran atau improve, silakan buka issue atau pull request.
 
-(bbasically python but who gives a fuck mwehehehhe  ¯\_(ツ)_/¯)
+(basically python but who gives a fuck mwehehehhe  ¯\_(ツ)_/¯ )
 
 ---
 
