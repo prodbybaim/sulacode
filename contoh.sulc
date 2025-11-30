@@ -1,0 +1,10 @@
+# contoh kecil buat coba sulacode
+
+set nama = "Sulacode"
+tulis "Halo dari " dan nama
+
+jika 5 > 2 maka:
+    tulis "11+11 = 22"
+
+ulang i dari 0 sampai 3:
+    tulis "loop ke " dan i
